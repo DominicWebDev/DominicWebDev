@@ -1,20 +1,22 @@
 # Hi traveler 👋
 <br>
 
-
-
-<h5> My name is Dom and I want to move the world forward</h5>
+## My name is Dom and I want to be best version of myself
 
 <ol>
-<li> Set a goal </li>
-<li> Try <strong>everything<strong> you can</li>
+<li> set a goal </li>
+<li> try <strong>everything<strong> you can</li>
 <li> repeat </li>
 </ol>
-
-<p> Future Full Stack Developer🙏 </p> 
+ 
+ ### neueFischeBootCamp23
+  
+<p _italicized text_> Future Full Stack Developer🙏 </p> 
 
 
 💾>🤓>🌲>🐕
 
 
-[Email](mattedominic@gmx.de) 📮  
+[📮Email](mattedominic@gmx.de) 
+  [💻LinkedIn](https://www.linkedin.com/in/dominic-matte-24b541261/)
+  
