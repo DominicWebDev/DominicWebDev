@@ -20,3 +20,6 @@
 <!-- <b>☎️ Contact</b> -->
 
 ##### [:mailbox: mattedominic@gmx.de](mailto:mattedominic@gmx.de) · [🌐 dominicmatte.de](https://dominicmatte.de) · [👔 LinkedIn](https://www.linkedin.com/in/dominic-matte) · [💼 XING](https://www.xing.com/profile/Dominic_Matte) 
+
+ 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DominicWebDev&show_icons=true&hide_border=true&theme=vue-dark" />
