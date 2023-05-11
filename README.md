@@ -16,10 +16,7 @@
 
 💾>🤓>🌲>🐕
 
-
-[📮Email](mattedominic@gmx.de) 
-  [💻LinkedIn](www.linkedin.com/in/dominic-matte)
   
 <!-- <b>☎️ Contact</b> -->
 
-##### [:mailbox: mattedominic@gmx.de](mailto:mattedominic@gmx.de) · [🌐 dominicmatte.de](https://dominicmatte.de) · [👔 LinkedIn](https://www.linkedin.com/in/dominic-matte) · [💼 XING](https://www.xing.com/profile/Dominic_Matte) ·
+##### [:mailbox: mattedominic@gmx.de](mailto:mattedominic@gmx.de) · [🌐 dominicmatte.de](https://dominicmatte.de) · [👔 LinkedIn](https://www.linkedin.com/in/dominic-matte) · [💼 XING](https://www.xing.com/profile/Dominic_Matte) 
