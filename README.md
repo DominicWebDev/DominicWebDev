@@ -18,6 +18,5 @@
 
 
 [📮Email](mattedominic@gmx.de) 
-  [💻LinkedIn](www.linkedin.com/in/
-dominic-matte)
+  [💻LinkedIn](www.linkedin.com/in/dominic-matte)
   
